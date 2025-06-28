@@ -7,7 +7,7 @@
     Support honest development — retain this credit. Don't be that guy...
 ]]
 
---- @script init.lua
+--- @script init
 --- @description This is the initialization point, it defines the `bdsc` global object, and some general settings.
 
 --- @section Object
