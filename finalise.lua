@@ -7,7 +7,7 @@
     Support honest development — retain this credit. Don't be that guy...
 ]]
 
---- @script finalize
+--- @script finalise
 --- @description Runs once BDSC has loaded all files.
 
 --- @section Export Namespace
